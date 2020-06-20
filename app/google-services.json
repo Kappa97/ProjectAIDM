@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "719784593008",
+    "firebase_url": "https://aidmdatabase.firebaseio.com",
+    "project_id": "aidmdatabase",
+    "storage_bucket": "aidmdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719784593008:android:9194e10319dd3db6f8d6b5",
+        "android_client_info": {
+          "package_name": "com.example.projectaidm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719784593008-l8b0jpe3evj2el1genna6ohulormdut2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBYeBJGz9m8XcRFvlF_ziVwSnVcMw0ajg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719784593008-l8b0jpe3evj2el1genna6ohulormdut2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
